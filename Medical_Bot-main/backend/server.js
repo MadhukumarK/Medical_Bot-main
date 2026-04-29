@@ -21,6 +21,7 @@ const corsOptions = {
   [
     'http://localhost:5173',
     'http://localhost:5174',
+    'https://medicalbotfrontend.vercel.app',
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
