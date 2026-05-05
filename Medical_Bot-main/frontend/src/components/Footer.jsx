@@ -10,7 +10,7 @@ const Footer = () => {
             <div>
                 <img className="mb-5 w-50" src={assets.logo} alt="" />
                 <p className="w-full md:w-2/3 text-gray-600 text-base leading-6">
-                    Patient health care is more than treatment—it’s compassion, trust, and personalized support. With safety, comfort, and prevention at the core, patients can achieve better well-being and a healthier future.
+                    Smart health care is more than treatment—it’s compassion, trust, and personalized support. With safety, comfort, and prevention at the core, patients can achieve better well-being and a healthier future.
                     
                 </p>
             </div>
